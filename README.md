@@ -6,3 +6,4 @@ Also it saves the static files like images, in one of the repository's folders, 
 The API is designed to be consumed by an anglar CinemaSystem application that is also deployed on github.
 
 For further details about the angular app follow the link of the following repositoy:
+https://github.com/RabihWehbe/CinemaSystemInterface.git
